@@ -1,0 +1,24 @@
+.theme-color {
+    background-color: #feeae8;
+}
+.text-color {
+    
+}
+.bg-watch {
+    background-color: #ffa62f;
+}
+.bg-bag {
+    background-color: #e06ed1;
+}
+.bg-shoes {
+    background-color: #0000f7;
+}
+.btn-theme{
+    background-color: #ff3785;
+    margin-top: 10px;
+    color: #fff;
+    padding: 10px 30px;
+}
+.subscribe {
+    height: 300px;
+}
